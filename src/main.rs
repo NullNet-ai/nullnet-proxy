@@ -1,3 +1,4 @@
+mod env;
 mod nullnet_proxy;
 
 use crate::nullnet_proxy::NullnetProxy;
