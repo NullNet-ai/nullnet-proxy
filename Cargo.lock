@@ -1431,7 +1431,7 @@ version = "0.1.1"
 source = "git+https://github.com/NullNet-ai/libguard.git?branch=nullnet-liberror-print#c994965bc2b6c6d0f3d77a2cfc18e0ec85aabf54"
 
 [[package]]
-name = "nullnet-proxy-test"
+name = "nullnet-proxy"
 version = "0.1.0"
 dependencies = [
  "async-trait",

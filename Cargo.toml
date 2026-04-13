@@ -1,5 +1,5 @@
 [package]
-name = "nullnet-proxy-test"
+name = "nullnet-proxy"
 version = "0.1.0"
 edition = "2024"
 
